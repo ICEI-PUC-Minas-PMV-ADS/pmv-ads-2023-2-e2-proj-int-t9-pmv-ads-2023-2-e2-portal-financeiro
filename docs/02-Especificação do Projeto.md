@@ -9,19 +9,16 @@
  <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.jpg"> **Biografia**: João é um estudante universitário de 22 anos, vivendo em um alojamento estudantil.
 
 **Metas**:
-Controlar melhor meus gastos para não ficar sem dinheiro antes do fim do mês.
+Economizar para a formatura, evitar dívidas estudantis excessivas.
 
 **Motivação**:
-Sou motivado a controlar melhor minhas finanças para ter mais estabilidade financeira e conseguir alcançar meus objetivos pessoais e profissionais. Quero ter mais segurança para lidar com imprevistos.
-
+Busca adquirir habilidades financeiras desde cedo, sonha em iniciar uma carreira sem dívidas.
 
 **Frustrações**:
-Esta sendo muito difícil controlar meus gastos e economizar dinheiro enquanto tento equilibrar minha vida acadêmica e minhas atividades extracurriculares.
+Dificuldade em equilibrar gastos com entretenimento e necessidades básicas.
 
 **Bloqueadores**:
-Os principais bloqueadores para alcançar minhas metas financeiras são:
-* A falta de tempo para gerenciar minhas finanças; 
-* Dificuldade em manter um orçamento equilibrado diante das flutuações de renda.
+Falta de renda consistente, pressão social para gastar.
  <br /> 
 
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir: 
