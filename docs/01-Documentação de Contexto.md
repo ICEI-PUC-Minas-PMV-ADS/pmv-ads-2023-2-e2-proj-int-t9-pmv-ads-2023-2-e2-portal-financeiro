@@ -32,19 +32,19 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 
 - **Meu Bolso Feliz**[^1]. - Um site desenvolvido pela Febraban (Federação Brasileira de Bancos) que oferece informações, dicas e ferramentas para auxiliar as pessoas a gerenciar suas finanças pessoais de maneira mais eficaz.
 
-    Dinheirama: Um site e blog que oferece artigos, podcasts e cursos sobre diversos aspectos das finanças pessoais, incluindo orçamento, investimentos e planejamento financeiro.
+Dinheirama[^2]: Um site e blog que oferece artigos, podcasts e cursos sobre diversos aspectos das finanças pessoais, incluindo orçamento, investimentos e planejamento financeiro.
 
-    B3 Educação: A B3, empresa responsável pela bolsa de valores brasileira, oferece uma seção de educação financeira em seu site, com cursos e materiais educativos sobre investimentos e o funcionamento do mercado financeiro.
+B3 Educação[^3]: A B3, empresa responsável pela bolsa de valores brasileira, oferece uma seção de educação financeira em seu site, com cursos e materiais educativos sobre investimentos e o funcionamento do mercado financeiro.
 
-    Clube do Valor: Um site que oferece cursos e conteúdo educativo sobre investimentos, finanças pessoais e independência financeira, voltado especialmente para pessoas que desejam aprender a investir melhor.
+Clube do Valor[^4]: Um site que oferece cursos e conteúdo educativo sobre investimentos, finanças pessoais e independência financeira, voltado especialmente para pessoas que desejam aprender a investir melhor.
 
-    Mobills Educação Financeira: Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
+Mobills Educação Financeira[^5]: Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
     
 [^1]: https://meubolsofeliz.com.br/
-    [^2]:
-    [^3]:
-    [^4]:
-    [^5]:
+[^2]: https://dinheirama.com/
+[^3]: https://edu.b3.com.br/login
+[^4]: https://clubedovalor.com.br/
+[^5]: https://www.mobills.com.br/
     
     
 ## Público-Alvo
@@ -54,9 +54,3 @@ Nosso projeto se destina a pessoas de todas as idades e níveis de conhecimento 
 Ao navegar por este portal, os visitantes terão acesso a informações fundamentais para tomar decisões financeiras informadas, além de ferramentas e recursos práticos para aplicar os conceitos aprendidos. Nosso compromisso é capacitar indivíduos a construir bases financeiras sólidas e a trilhar um caminho rumo à estabilidade financeira e realização de objetivos futuros.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
