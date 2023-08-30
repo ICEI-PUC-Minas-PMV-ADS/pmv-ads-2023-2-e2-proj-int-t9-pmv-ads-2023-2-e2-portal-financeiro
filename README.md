@@ -24,17 +24,15 @@ Além disso, o site oferece ferramentas interativas, estudos de caso inspiradore
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Link da aplicação repositório Github https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro
 
-Link da aplicação repositório Github https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro
+* O usuário poderá explorar e navegar pelas seções principais do site, como: "Orçamento", "Poupança", "Investimentos" e "Planejamento para o Futuro". Cada seção contém informações detalhadas sobre o tópico correspondente.
 
-O usuário poderá explorar e navegar pelas seções principais do site, como: "Orçamento", "Poupança", "Investimentos" e "Planejamento para o Futuro". Cada seção contém informações detalhadas sobre o tópico correspondente.
+* Poderá ser lido artigos Educacionais: Artigos educativos disponíveis em cada seção. Eles oferecem insights valiosos sobre conceitos financeiros e estratégias práticas para lidar com diferentes aspectos das finanças pessoais.
 
-Poderá ser lido artigos Educacionais: Artigos educativos disponíveis em cada seção. Eles oferecem insights valiosos sobre conceitos financeiros e estratégias práticas para lidar com diferentes aspectos das finanças pessoais.
+* Haverá estudos de Caso: Estudos de caso inspiradores de pessoas reais que superaram desafios financeiros e atingiram suas metas. Esses exemplos práticos podem fornecer insights sobre como aplicar conceitos financeiros na vida real.
 
-Haverá estudos de Caso: Estudos de caso inspiradores de pessoas reais que superaram desafios financeiros e atingiram suas metas. Esses exemplos práticos podem fornecer insights sobre como aplicar conceitos financeiros na vida real.
-
-Sessão de Recursos Externos: Encontre links para recursos externos confiáveis, como sites governamentais de educação financeira, instituições financeiras respeitáveis e ferramentas de cálculo.
+* Sessão de Recursos Externos: Encontre links para recursos externos confiáveis, como sites governamentais de educação financeira, instituições financeiras respeitáveis e ferramentas de cálculo.
 
 # Documentação
 
