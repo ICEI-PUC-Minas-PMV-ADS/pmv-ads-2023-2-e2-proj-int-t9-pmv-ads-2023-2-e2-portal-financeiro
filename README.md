@@ -2,7 +2,7 @@
 
 > Tecnologia em Análise e Desenvolvimento de Sistemas
 
-> Projeto
+> Projeto Portal Financeiro
 
 > 2º Semestre/2023
 
