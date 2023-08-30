@@ -13,12 +13,12 @@ A falta de educação financeira é uma barreira significativa que impede indiv�
 Nosso projeto visa capacitar pessoas de diferentes origens a adquirir habilidades financeiras fundamentais, permitindo-lhes tomar decisões conscientes que levem a uma vida financeira saudável. Pretendemos simplificar conceitos complexos, oferecer exemplos práticos e fornecer ferramentas interativas para aplicação direta.
 
 ## Objetivos Especificos
+   Estes objetivos específicos direcionam nossos esforços para capacitar nossos visitantes a desenvolverem habilidades práticas em finanças e a tomarem decisões sólidas que possam impactar positivamente suas vidas financeiras a longo prazo.
+   
 *  Desmistificar Conceitos Financeiros Complexos: Tornar conceitos financeiros como juros compostos, diversificação de investimentos e gerenciamento de dívidas compreensíveis para um público amplo, por meio de explicações claras e exemplos do cotidiano.
 *  Fornecer Ferramentas Práticas: Oferecer calculadoras interativas de orçamento, poupança e investimentos para permitir que os usuários coloquem em prática os princípios aprendidos e tomem decisões embasadas em números concretos.
 *  Promover Hábitos Financeiros Saudáveis: Apresentar estratégias de poupança, métodos de orçamento eficiente e melhores práticas para evitar dívidas excessivas, incentivando os usuários a implementar essas abordagens em suas vidas financeiras.
 *  Inspirar com Estudos de Caso: Compartilhar histórias de indivíduos reais que conseguiram superar desafios financeiros e alcançar seus objetivos, fornecendo exemplos concretos de como a educação financeira pode transformar vidas.
-   Estes objetivos específicos direcionam nossos esforços para capacitar nossos visitantes a desenvolverem habilidades práticas em finanças e a tomarem decisões sólidas que possam impactar positivamente suas vidas financeiras a longo prazo.
-
 
 ## Justificativa
 
