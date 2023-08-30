@@ -4,6 +4,26 @@
 
 ### Personas 
 
+**<h3 align="center" >João Alves da Silva</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpeg"> **Biografia**: Meu nome é João Alves da Silva, tenho 20 anos e sou um estudante universitário de direito que mora em São Paulo, SP. No momento, minha renda depende dos bicos que eu faço ao longo do mês para conseguir pagar as minhas despesas.
+
+**Metas**:
+Controlar melhor meus gastos para não ficar sem dinheiro antes do fim do mês.
+
+**Motivação**:
+Sou motivado a controlar melhor minhas finanças para ter mais estabilidade financeira e conseguir alcançar meus objetivos pessoais e profissionais. Quero ter mais segurança para lidar com imprevistos.
+
+
+**Frustrações**:
+Esta sendo muito difícil controlar meus gastos e economizar dinheiro enquanto tento equilibrar minha vida acadêmica e minhas atividades extracurriculares.
+
+**Bloqueadores**:
+Os principais bloqueadores para alcançar minhas metas financeiras são:
+* A falta de tempo para gerenciar minhas finanças; 
+* Dificuldade em manter um orçamento equilibrado diante das flutuações de renda.
+ <br /> 
+
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir: 
 
 
