@@ -7,21 +7,19 @@ No cenário dinâmico da economia contemporânea, a capacidade de compreender e 
 ## Problema
 A falta de educação financeira é uma barreira significativa que impede indivíduos de todas as idades de tomar decisões financeiras sólidas, o que frequentemente resulta em dívidas, dificuldades financeiras e incerteza sobre o futuro.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Nosso projeto visa capacitar pessoas de diferentes origens a adquirir habilidades financeiras fundamentais, permitindo-lhes tomar decisões conscientes que levem a uma vida financeira saudável. Pretendemos simplificar conceitos complexos, oferecer exemplos práticos e fornecer ferramentas interativas para aplicação direta.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+## Objetivos Especificos
+*  Desmistificar Conceitos Financeiros Complexos: Tornar conceitos financeiros como juros compostos, diversificação de investimentos e gerenciamento de dívidas compreensíveis para um público amplo, por meio de explicações claras e exemplos do cotidiano.
+*  Fornecer Ferramentas Práticas: Oferecer calculadoras interativas de orçamento, poupança e investimentos para permitir que os usuários coloquem em prática os princípios aprendidos e tomem decisões embasadas em números concretos.
+*  Promover Hábitos Financeiros Saudáveis: Apresentar estratégias de poupança, métodos de orçamento eficiente e melhores práticas para evitar dívidas excessivas, incentivando os usuários a implementar essas abordagens em suas vidas financeiras.
+*      Inspirar com Estudos de Caso: Compartilhar histórias de indivíduos reais que conseguiram superar desafios financeiros e alcançar seus objetivos, fornecendo exemplos concretos de como a educação financeira pode transformar vidas.
+
+Estes objetivos específicos direcionam nossos esforços para capacitar nossos visitantes a desenvolverem habilidades práticas em finanças e a tomarem decisões sólidas que possam impactar positivamente suas vidas financeiras a longo prazo.
+
 
 ## Justificativa
 
