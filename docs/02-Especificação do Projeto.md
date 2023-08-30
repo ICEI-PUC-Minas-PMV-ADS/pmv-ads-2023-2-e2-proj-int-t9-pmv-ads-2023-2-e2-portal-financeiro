@@ -27,15 +27,23 @@ Falta de renda consistente, pressão social para gastar.
 ##
 
 
- <div align="center">
-	
-![Manoel Gomes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/ManoelGomes.PNG)
-	
-</div>
+**<h3 align="center" >Ana Paula</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
 
-</br>
+**Metas**:
+Economizar para uma viagem ao exterior, começar a investir.
 
-<div align="center">
+**Motivação**:
+Alcançar independência financeira, aproveitar a vida agora e no futuro.
+
+**Frustrações**:
+Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado de investimentos.
+
+**Bloqueadores**:
+Falta de conhecimento em investimentos, instabilidade de renda.
+ <br /> 
+
 	
 ## Histórias de Usuários
 
