@@ -65,21 +65,21 @@ Despesas imprevistas com educação e saúde, dificuldade em equilibrar trabalho
  ##
 
 
- **<h3 align="center" >Ana Paula</h3 >**
+ **<h3 align="center" >Carla Moreira</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona4.jpg"> **Biografia**: Carla, 40 anos, decidiu iniciar seu próprio negócio no setor de alimentos.
 
 **Metas**:
-Economizar para uma viagem ao exterior, começar a investir.
+Fazer crescer o negócio, gerenciar dívidas relacionadas ao empreendimento.
 
 **Motivação**:
-Alcançar independência financeira, aproveitar a vida agora e no futuro.
+Realizar seu sonho empreendedor, alcançar estabilidade financeira por meio do negócio.
 
 **Frustrações**:
-Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado de investimentos.
+Incertezas financeiras no início do negócio, dificuldade em equilibrar investimento pessoal e comercial.
 
 **Bloqueadores**:
-Falta de conhecimento em investimentos, instabilidade de renda.
+Desafios de fluxo de caixa, despesas iniciais elevadas.
  <br /> 
  ##
 
