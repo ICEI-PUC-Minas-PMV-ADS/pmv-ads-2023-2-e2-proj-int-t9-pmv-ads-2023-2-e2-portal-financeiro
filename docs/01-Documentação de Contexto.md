@@ -22,13 +22,31 @@ Nosso projeto visa capacitar pessoas de diferentes origens a adquirir habilidade
 
 ## Justificativa
 
-A educação financeira é um investimento crucial para indivíduos e comunidades. Ao capacitar as pessoas a gerenciar suas finanças, podemos reduzir o estresse financeiro, promover a independência e impulsionar o crescimento econômico a longo prazo.
+O cenário econômico atual demonstra a crescente importância da educação financeira para indivíduos em todas as etapas da vida. Dados recentes de diversos sites e fontes confiáveis de economia enfatizam a necessidade de promover a literacia financeira como meio de fortalecer a estabilidade econômica e a independência dos cidadãos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Sites como a Investopedia e a Forbes relatam que a falta de educação financeira pode levar a problemas significativos, como altos níveis de endividamento e dificuldade em atingir objetivos financeiros. Além disso, de acordo com a pesquisa anual da FINRA Foundation, uma parcela substancial da população não demonstra compreensão básica de conceitos financeiros.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Nesse contexto, o projeto de educação financeira se justifica como um esforço vital para preencher essa lacuna. Com a abordagem prática, as informações claras e as ferramentas interativas oferecidas, nosso projeto busca capacitar indivíduos a tomar decisões financeiras informadas, evitando armadilhas financeiras comuns e cultivando uma base sólida para o sucesso financeiro a longo prazo. A partir das evidências fornecidas por esses sites e estudos, fica claro que a educação financeira é uma necessidade urgente para promover o bem-estar econômico e individual, tornando nosso projeto uma resposta valiosa a essa demanda crescente.
 
+## Trabalhos Relacionados
+
+    Meu Bolso Feliz[^1]: Um site desenvolvido pela Febraban (Federação Brasileira de Bancos) que oferece informações, dicas e ferramentas para auxiliar as pessoas a gerenciar suas finanças pessoais de maneira mais eficaz.
+
+    Dinheirama: Um site e blog que oferece artigos, podcasts e cursos sobre diversos aspectos das finanças pessoais, incluindo orçamento, investimentos e planejamento financeiro.
+
+    B3 Educação: A B3, empresa responsável pela bolsa de valores brasileira, oferece uma seção de educação financeira em seu site, com cursos e materiais educativos sobre investimentos e o funcionamento do mercado financeiro.
+
+    Clube do Valor: Um site que oferece cursos e conteúdo educativo sobre investimentos, finanças pessoais e independência financeira, voltado especialmente para pessoas que desejam aprender a investir melhor.
+
+    Mobills Educação Financeira: Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
+    
+    [^1]: https://meubolsofeliz.com.br/
+    [^2]:
+    [^3]:
+    [^4]:
+    [^5]:
+    
+    
 ## Público-Alvo
 
 Nosso projeto se destina a pessoas de todas as idades e níveis de conhecimento financeiro, desde estudantes universitários aprendendo a lidar com suas primeiras despesas até profissionais experientes que buscam otimizar suas estratégias de investimento. Nosso conteúdo é projetado para ser acessível, independente do nível de familiaridade prévia com finanças.
