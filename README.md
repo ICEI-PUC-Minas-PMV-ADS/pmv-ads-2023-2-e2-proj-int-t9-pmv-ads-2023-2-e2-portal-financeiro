@@ -1,10 +1,10 @@
 # Portal Financeiro
 
->` Tecnologia em Análise e Desenvolvimento de Sistemas
+> Tecnologia em Análise e Desenvolvimento de Sistemas
 
->` Projeto
+> Projeto
 
->` 2º Semestre/2023
+> 2º Semestre/2023
 
 O projeto em desenvolvimento é um site focado em educação financeira, destinado a fornecer orientação prática e acessível sobre diversos aspectos das finanças pessoais. Ele abrange tópicos como orçamento eficiente, estratégias de poupança, investimentos inteligentes, gerenciamento de dívidas e preparação para a aposentadoria. O site visa capacitar indivíduos de diferentes faixas etárias e níveis de conhecimento a tomar decisões financeiras informadas e responsáveis. 
 Além disso, o site oferece ferramentas interativas, estudos de caso inspiradores para ajudar os visitantes a desenvolverem habilidades financeiras sólidas e alcançarem estabilidade econômica a longo prazo.
