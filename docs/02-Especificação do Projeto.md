@@ -84,21 +84,21 @@ Desafios de fluxo de caixa, despesas iniciais elevadas.
  ##
 
 
- **<h3 align="center" >Ana Paula</h3 >**
+ **<h3 align="center" >Sofia de Azevedo</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona5.jpg"> **Biografia**: Sofia, 55 anos, está prestes a se aposentar após uma carreira de sucesso.
 
 **Metas**:
-Economizar para uma viagem ao exterior, começar a investir.
+Garantir um fluxo de renda sustentável na aposentadoria, viajar e aproveitar a vida.
 
 **Motivação**:
-Alcançar independência financeira, aproveitar a vida agora e no futuro.
+Desfrutar da aposentadoria sem se preocupar com finanças, explorar novas paixões.
 
 **Frustrações**:
-Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado de investimentos.
+Incertezas sobre quanto dinheiro é suficiente para a aposentadoria, preocupações com despesas médicas.
 
 **Bloqueadores**:
-Falta de conhecimento em investimentos, instabilidade de renda.
+Falta de conhecimento em como criar uma estratégia de retirada de fundos, resistência a adotar tecnologias financeiras.
  <br /> 
 	
 ## Histórias de Usuários
