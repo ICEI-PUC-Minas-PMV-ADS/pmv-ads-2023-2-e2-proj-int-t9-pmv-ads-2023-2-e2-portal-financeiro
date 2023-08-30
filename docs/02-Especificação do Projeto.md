@@ -48,7 +48,7 @@ Falta de conhecimento em investimentos, instabilidade de renda.
 
 **<h3 align="center" >Marcos Alencar</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Marcos é um pai solteiro de 35 anos, com dois filhos adolescentes.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpg"> **Biografia**: Marcos é um pai solteiro de 35 anos, com dois filhos adolescentes.
 
 **Metas**:
 Economizar para a educação dos filhos, criar um fundo de aposentadoria.
