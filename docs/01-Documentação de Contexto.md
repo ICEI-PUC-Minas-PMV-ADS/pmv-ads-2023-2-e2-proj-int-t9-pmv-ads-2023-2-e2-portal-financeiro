@@ -30,7 +30,7 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 
 ## Trabalhos Relacionados
 
-    - **Meu Bolso Feliz**[^1]. - Um site desenvolvido pela Febraban (Federação Brasileira de Bancos) que oferece informações, dicas e ferramentas para auxiliar as pessoas a gerenciar suas finanças pessoais de maneira mais eficaz.
+- **Meu Bolso Feliz**[^1]. - Um site desenvolvido pela Febraban (Federação Brasileira de Bancos) que oferece informações, dicas e ferramentas para auxiliar as pessoas a gerenciar suas finanças pessoais de maneira mais eficaz.
 
     Dinheirama: Um site e blog que oferece artigos, podcasts e cursos sobre diversos aspectos das finanças pessoais, incluindo orçamento, investimentos e planejamento financeiro.
 
@@ -40,7 +40,7 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 
     Mobills Educação Financeira: Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
     
-    [^1]: https://meubolsofeliz.com.br/
+[^1]: https://meubolsofeliz.com.br/
     [^2]:
     [^3]:
     [^4]:
