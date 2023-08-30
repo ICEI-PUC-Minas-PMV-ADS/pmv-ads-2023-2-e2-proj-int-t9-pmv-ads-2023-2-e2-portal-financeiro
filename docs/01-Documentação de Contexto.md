@@ -1,11 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Introdução à Educação Financeira: Navegando Rumo à Estabilidade Financeira
+
+No cenário dinâmico da economia contemporânea, a capacidade de compreender e gerenciar eficazmente as finanças pessoais tornou-se uma habilidade indispensável. Diante dessa necessidade, apresentamos nosso projeto dedicado à Educação Financeira, um portal online projetado para fornecer orientação clara e prática sobre os princípios essenciais das finanças pessoais. Neste projeto, exploramos o contexto de um mundo financeiramente complexo, onde muitos enfrentam dificuldades em tomar decisões informadas sobre orçamento, investimentos, poupança e planejamento para o futuro.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A falta de educação financeira é uma barreira significativa que impede indivíduos de todas as idades de tomar decisões financeiras sólidas, o que frequentemente resulta em dívidas, dificuldades financeiras e incerteza sobre o futuro.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
