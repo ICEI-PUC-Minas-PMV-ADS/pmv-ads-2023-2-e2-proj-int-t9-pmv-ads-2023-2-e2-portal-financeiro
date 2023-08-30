@@ -27,7 +27,45 @@ Falta de renda consistente, pressão social para gastar.
 ##
 
 
-**<h3 align="center" >Ana Paula</h3 >**
+**<h3 align="center" >Ana Paula de Souza</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Ana Paula é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
+
+**Metas**:
+Economizar para uma viagem ao exterior, começar a investir.
+
+**Motivação**:
+Alcançar independência financeira, aproveitar a vida agora e no futuro.
+
+**Frustrações**:
+Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado de investimentos.
+
+**Bloqueadores**:
+Falta de conhecimento em investimentos, instabilidade de renda.
+ <br /> 
+##
+
+
+**<h3 align="center" >Marcos Alencar</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Marcos é um pai solteiro de 35 anos, com dois filhos adolescentes.
+
+**Metas**:
+Economizar para a educação dos filhos, criar um fundo de aposentadoria.
+
+**Motivação**:
+Proporcionar o melhor para seus filhos, assegurar um futuro confortável.
+
+**Frustrações**:
+Despesas imprevistas com educação e saúde, dificuldade em equilibrar trabalho e vida familiar.
+
+**Bloqueadores**:
+ Falta de tempo para buscar oportunidades de renda extra, falta de suporte familiar.
+ <br /> 
+ ##
+
+
+ **<h3 align="center" >Ana Paula</h3 >**
  
  <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
 
@@ -43,7 +81,25 @@ Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado 
 **Bloqueadores**:
 Falta de conhecimento em investimentos, instabilidade de renda.
  <br /> 
+ ##
 
+
+ **<h3 align="center" >Ana Paula</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
+
+**Metas**:
+Economizar para uma viagem ao exterior, começar a investir.
+
+**Motivação**:
+Alcançar independência financeira, aproveitar a vida agora e no futuro.
+
+**Frustrações**:
+Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado de investimentos.
+
+**Bloqueadores**:
+Falta de conhecimento em investimentos, instabilidade de renda.
+ <br /> 
 	
 ## Histórias de Usuários
 
