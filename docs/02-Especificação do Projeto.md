@@ -5,7 +5,6 @@
 ## Personas 
 
 
-##
 **<h3 align="center" >João Alves de Almeida</h3 >**
  
  <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.jpg"> **Biografia**: João é um estudante universitário de 22 anos, vivendo em um alojamento estudantil.
