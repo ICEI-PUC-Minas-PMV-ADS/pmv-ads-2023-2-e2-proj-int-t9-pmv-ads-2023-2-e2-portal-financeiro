@@ -21,6 +21,7 @@ Dificuldade em equilibrar gastos com entretenimento e necessidades básicas.
 Falta de renda consistente, pressão social para gastar.
  <br /> 
 
+
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir: 
 
 
