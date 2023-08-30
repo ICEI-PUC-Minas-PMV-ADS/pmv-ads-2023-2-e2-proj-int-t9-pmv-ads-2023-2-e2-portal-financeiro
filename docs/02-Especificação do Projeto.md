@@ -4,7 +4,7 @@
 
 ## Personas 
 
-&nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir:
+
 ##
 
 
