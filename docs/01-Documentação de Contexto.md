@@ -32,13 +32,13 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 
 - **Meu Bolso Feliz**[^1]. - Um site desenvolvido pela Febraban (Federação Brasileira de Bancos) que oferece informações, dicas e ferramentas para auxiliar as pessoas a gerenciar suas finanças pessoais de maneira mais eficaz.
 
-Dinheirama[^2]: Um site e blog que oferece artigos, podcasts e cursos sobre diversos aspectos das finanças pessoais, incluindo orçamento, investimentos e planejamento financeiro.
+- **Dinheirama**[^2]. - Um site e blog que oferece artigos, podcasts e cursos sobre diversos aspectos das finanças pessoais, incluindo orçamento, investimentos e planejamento financeiro.
 
-B3 Educação[^3]: A B3, empresa responsável pela bolsa de valores brasileira, oferece uma seção de educação financeira em seu site, com cursos e materiais educativos sobre investimentos e o funcionamento do mercado financeiro.
+- **B3 Educação**[^3]. - A B3, empresa responsável pela bolsa de valores brasileira, oferece uma seção de educação financeira em seu site, com cursos e materiais educativos sobre investimentos e o funcionamento do mercado financeiro.
 
-Clube do Valor[^4]: Um site que oferece cursos e conteúdo educativo sobre investimentos, finanças pessoais e independência financeira, voltado especialmente para pessoas que desejam aprender a investir melhor.
+- **Clube do Valor**[^4]. - Um site que oferece cursos e conteúdo educativo sobre investimentos, finanças pessoais e independência financeira, voltado especialmente para pessoas que desejam aprender a investir melhor.
 
-Mobills Educação Financeira[^5]: Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
+- **Mobills Educação Financeira**[^5]. - Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
     
 [^1]: https://meubolsofeliz.com.br/
 [^2]: https://dinheirama.com/
