@@ -52,3 +52,10 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 Nosso projeto se destina a pessoas de todas as idades e níveis de conhecimento financeiro, desde estudantes universitários aprendendo a lidar com suas primeiras despesas até profissionais experientes que buscam otimizar suas estratégias de investimento. Nosso conteúdo é projetado para ser acessível, independente do nível de familiaridade prévia com finanças.
 
 Ao navegar por este portal, os visitantes terão acesso a informações fundamentais para tomar decisões financeiras informadas, além de ferramentas e recursos práticos para aplicar os conceitos aprendidos. Nosso compromisso é capacitar indivíduos a construir bases financeiras sólidas e a trilhar um caminho rumo à estabilidade financeira e realização de objetivos futuros.
+Exemplos de Público-Alvo:
+*  Estudantes Universitários: Jovens universitários que estão começando a lidar com suas próprias finanças e desejam aprender a gerenciar seus gastos, poupar e investir de forma inteligente.
+*  Profissionais Jovens: Pessoas que estão no início de suas carreiras profissionais e buscam orientação sobre como equilibrar gastos, economizar, investir e planejar para o futuro.
+*  Casais Recém-Casados: Casais que estão no início de suas vidas juntos e desejam aprender a gerenciar finanças conjuntas, fazer compras importantes, economizar e investir como uma equipe.
+*  Pais e Mães: Pais que estão buscando maneiras de ensinar seus filhos sobre dinheiro, orçamento e economia, ao mesmo tempo em que equilibram as despesas familiares.
+*  Empreendedores Iniciantes: Indivíduos que estão começando seus próprios negócios e precisam de orientação sobre como gerenciar finanças pessoais e empresariais de forma eficaz.
+*  Indivíduos em Busca de Independência Financeira: Pessoas que buscam alcançar a independência financeira, investir de forma inteligente e criar um futuro estável para si mesmas.
