@@ -5,6 +5,8 @@
 ### Personas 
 
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir:
+##
+
 
 **<h3 align="center" >João Alves de Almeida</h3 >**
  
@@ -22,6 +24,8 @@ Dificuldade em equilibrar gastos com entretenimento e necessidades básicas.
 **Bloqueadores**:
 Falta de renda consistente, pressão social para gastar.
  <br /> 
+##
+
 
  <div align="center">
 	
