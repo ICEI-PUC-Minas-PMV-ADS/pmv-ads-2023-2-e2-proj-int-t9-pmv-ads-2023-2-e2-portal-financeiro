@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# Portal Financeiro
 
-`CURSO`
+ Tecnologia em Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Projeto
 
-`SEMESTRE`
+2º Semestre/2023
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gustavo Henrique Pereira da Silva
+* Lorena Poliane de Oliveira
+* Luiz Nader Arruda Junior
+* Mário José Copertino Filho
+* Paulo Isidoro de Oliveira
+* Victor Gabriel Barbosa de Araújo
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro
 
 ## Instruções de utilização
 
