@@ -39,14 +39,14 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 - **Clube do Valor**[^4]. - Um site que oferece cursos e conteúdo educativo sobre investimentos, finanças pessoais e independência financeira, voltado especialmente para pessoas que desejam aprender a investir melhor.
 
 - **Mobills Educação Financeira**[^5]. - Além de ser um aplicativo de controle financeiro, o Mobills oferece um blog e recursos educativos para ajudar os usuários a melhorar suas finanças pessoais, com foco em orçamento e economia.
-    
+
 [^1]: https://meubolsofeliz.com.br/
 [^2]: https://dinheirama.com/
 [^3]: https://edu.b3.com.br/login
 [^4]: https://clubedovalor.com.br/
 [^5]: https://www.mobills.com.br/
-    
-    
+
+       
 ## Público-Alvo
 
 Nosso projeto se destina a pessoas de todas as idades e níveis de conhecimento financeiro, desde estudantes universitários aprendendo a lidar com suas primeiras despesas até profissionais experientes que buscam otimizar suas estratégias de investimento. Nosso conteúdo é projetado para ser acessível, independente do nível de familiaridade prévia com finanças.
