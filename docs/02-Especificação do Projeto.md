@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp; Foram definidos pela equipe os pontos mais relevantes a serem abordados neste projeto, deste modo, houve uma entrevista com voluntários para coletar informações sobre suas respectivas situações financeiras. Das informações coletadas, foram criadas personas e histórias de usuários, conforme abaixo descritas.  
 
-### Personas 
+## Personas 
 
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir:
 ##
