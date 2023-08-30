@@ -36,7 +36,6 @@ Haverá estudos de Caso: Estudos de caso inspiradores de pessoas reais que super
 
 Sessão de Recursos Externos: Encontre links para recursos externos confiáveis, como sites governamentais de educação financeira, instituições financeiras respeitáveis e ferramentas de cálculo.
 
-
 # Documentação
 
 <ol>
