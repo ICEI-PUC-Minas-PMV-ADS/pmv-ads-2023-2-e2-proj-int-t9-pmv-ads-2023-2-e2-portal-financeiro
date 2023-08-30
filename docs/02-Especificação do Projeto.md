@@ -4,9 +4,9 @@
 
 ### Personas 
 
-**<h3 align="center" >João Alves da Silva</h3 >**
+**<h3 align="center" >Carlos Alves da Silva</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpeg"> **Biografia**: Meu nome é João Alves da Silva, tenho 20 anos e sou um estudante universitário de direito que mora em São Paulo, SP. No momento, minha renda depende dos bicos que eu faço ao longo do mês para conseguir pagar as minhas despesas.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpeg"> **Biografia**: João é um estudante universitário de 22 anos, vivendo em um alojamento estudantil.
 
 **Metas**:
 Controlar melhor meus gastos para não ficar sem dinheiro antes do fim do mês.
