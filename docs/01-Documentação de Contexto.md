@@ -52,5 +52,3 @@ Nesse contexto, o projeto de educação financeira se justifica como um esforço
 Nosso projeto se destina a pessoas de todas as idades e níveis de conhecimento financeiro, desde estudantes universitários aprendendo a lidar com suas primeiras despesas até profissionais experientes que buscam otimizar suas estratégias de investimento. Nosso conteúdo é projetado para ser acessível, independente do nível de familiaridade prévia com finanças.
 
 Ao navegar por este portal, os visitantes terão acesso a informações fundamentais para tomar decisões financeiras informadas, além de ferramentas e recursos práticos para aplicar os conceitos aprendidos. Nosso compromisso é capacitar indivíduos a construir bases financeiras sólidas e a trilhar um caminho rumo à estabilidade financeira e realização de objetivos futuros.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
