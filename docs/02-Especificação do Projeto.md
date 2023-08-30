@@ -29,7 +29,7 @@ Falta de renda consistente, pressão social para gastar.
 
 **<h3 align="center" >Ana Paula</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Ana é uma jovem profissional de 28 anos, recém-promovida em seu trabalho.
 
 **Metas**:
 Economizar para uma viagem ao exterior, começar a investir.
