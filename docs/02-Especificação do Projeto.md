@@ -143,6 +143,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-008| Implementar rotinas regulares de backup dos dados do site e ter um plano de recuperação de dados em caso de falhas. |  ALTA |
 |RNF-009| Garantir que o conteúdo do site siga padrões de qualidade, precisão e confiabilidade, oferecendo informações confiáveis e atualizadas. |  ALTA |
 
+
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
