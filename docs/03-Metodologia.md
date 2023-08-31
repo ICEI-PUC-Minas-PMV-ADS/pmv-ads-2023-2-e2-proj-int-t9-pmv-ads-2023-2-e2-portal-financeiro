@@ -30,21 +30,18 @@ A equipe está organizada da seguinte forma:
 **Product Owner:** Luiz Nader Arruda Junior / Lorena Poliane de Oliveira
 
 **Equipe de Desenvolvimento:** 
-
-    Gustavo Henrique Pereira da Silva
-    Lorena Poliane de Oliveira
-    Luiz Nader Arruda Junior
-    Mário José Copertino Filho
-    Paulo Isidoro de Oliveira
-    Victor Gabriel Barbosa de Araújo
+- Gustavo Henrique Pereira da Silva
+- Lorena Poliane de Oliveira
+- Luiz Nader Arruda Junior
+- Mário José Copertino Filho
+- Paulo Isidoro de Oliveira
+- Victor Gabriel Barbosa de Araújo
 
 
 **Equipe de Design:**
-
-    Gustavo Henrique Pereira da Silva
-    Lorena Poliane de Oliveira
-    Luiz Nader Arruda Junior
-    Mário José Copertino Filho
-    Paulo Isidoro de Oliveira
-    Victor Gabriel Barbosa de Araújo
-
+- Gustavo Henrique Pereira da Silva
+- Lorena Poliane de Oliveira
+- Luiz Nader Arruda Junior
+- Mário José Copertino Filho
+- Paulo Isidoro de Oliveira
+- Victor Gabriel Barbosa de Araújo
