@@ -133,8 +133,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser intuitivo e de fácil utilização, com um design responsivo que se adapte a diferentes dispositivos, como desktops, tablets e smartphones. | ALTA | 
+|RNF-002| O sistema deve ser seguro e proteger as informações financeiras do usuário. |  ALTA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). |  ALTA |
+|RNF-004| O sistema deve ser fácil de usar e ter uma interface amigável para o usuário final. |  BAIXA |
+|RNF-005| O site deve carregar rapidamente e oferecer uma experiência sem atrasos, garantindo que os usuários possam acessar o conteúdo sem problemas. |  MÉDIA-ALTA |
+|RNF-006| Garantir a segurança dos dados dos usuários, implementando criptografia de dados, autenticação segura e proteção contra ataques cibernéticos. |  ALTA |
+|RNF-007| Assegurar que o site esteja em conformidade com regulamentações de privacidade, direitos autorais e outras leis aplicáveis. |  ALTA |
+|RNF-008| Implementar rotinas regulares de backup dos dados do site e ter um plano de recuperação de dados em caso de falhas. |  ALTA |
+|RNF-009| Garantir que o conteúdo do site siga padrões de qualidade, precisão e confiabilidade, oferecendo informações confiáveis e atualizadas. |  ALTA |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
