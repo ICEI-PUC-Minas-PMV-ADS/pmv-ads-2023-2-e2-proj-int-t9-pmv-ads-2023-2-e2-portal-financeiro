@@ -1,61 +1,50 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-A metodologia contempla as definições de ferramental utilizado pela equipe tanto para a
-manutenção dos códigos e demais artefatos quanto para a organização do time na
-execução das tarefas do projeto.
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos
-ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+Apresentamos a seguir a metodologia adotada pelo grupo para desenvolvedor o sistema de controle financeiro. Destacamos também as ferramentas e ambientes de trabalho utilizados pela equipe para o desenvolvimento do projeto. Isso inclui a descrição dos diferentes ambientes utilizados, bem como a estrutura para gerenciamento do código-fonte. Além disso, abordamos o processo e as ferramentas utilizadas para organizar e gerenciar o time.
 
--Reposítorio de codigo fonte = GITHUB
+<br>
 
--Documentação do projeto = GITHUB
 
--Projeto de interface e wireframes = FIGMA...
+## Relação de Ambientes de Trabalho
 
--Gerenciamento do Projeto = Whatsapp...
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue:
 
-# Gerenciamento de Projeto
+|Ambiente    | Plataforma  | Link de Acesso |
+|-----------|---------------------|-------------------|
+|Repositório de código fonte| GitHub |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/src/README.md | 
+|Documentos do Projeto| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/tree/main/docs |
+|Projeto de Interface e Wireframes| Figma | https://www.figma.com |
+|Gerenciamento de Projeto| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template |
+|Comunicação entre Stakeholders | WhatsApp e Teams |  https://teams.microsoft.com - https://www.whatsapp.com/?lang=pt_BR  |
+|Editor de código | Visual Studio Code| https://vscode.dev/ |
+<br>
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Kanban como base para definição do
-processo de desenvolvimento.
+## Gerenciamento de Projeto
 
-A equipe está organizada da seguinte maneira:
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+A equipe está organizada da seguinte forma:
 
-● Product Owner: Principal dono da ideia
+**Scrum Master:**  Gustavo Henrique Pereira da Silva
 
-● Equipe de Desenvolvimento
+**Product Owner:** Luiz Nader Arruda Junior / Lorena Poliane de Oliveira
 
-○ Mario Filho
+**Equipe de Desenvolvimento:** 
 
-○ Lorena
+    Gustavo Henrique Pereira da Silva
+    Lorena Poliane de Oliveira
+    Luiz Nader Arruda Junior
+    Mário José Copertino Filho
+    Paulo Isidoro de Oliveira
+    Victor Gabriel Barbosa de Araújo
 
-○ Victor Araújo
 
-○ Luiz Arruda
+**Equipe de Design:**
 
-○ 
+    Gustavo Henrique Pereira da Silva
+    Lorena Poliane de Oliveira
+    Luiz Nader Arruda Junior
+    Mário José Copertino Filho
+    Paulo Isidoro de Oliveira
+    Victor Gabriel Barbosa de Araújo
 
-● Equipe de Design
-
-○ ...
-
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o xxxxx
-(informar a ferramenta utilizada para gerenciamento de tarefas. Sugestões: GitHub Project,
-Trello) estruturado com as seguintes listas:
-
-● Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog.
-Todas as atividades identificadas no decorrer do projeto também devem ser
-incorporadas a esta lista.
-
-● To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos
-trabalhando.
-
-● In Progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-
-●Complete: nesta lista são colocadas as tarefas que passaram pelos testes e
-controle de qualidade e estão prontos para serem entregues ao usuário. Não há
-mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
-
-Link e imagens da ferramenta utilizada
