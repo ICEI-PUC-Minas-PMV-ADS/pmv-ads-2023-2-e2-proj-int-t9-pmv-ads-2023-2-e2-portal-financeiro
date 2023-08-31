@@ -104,11 +104,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do sistema  | Economizar para a formatura        | Iniciar uma carreira sem dívidas       |
+|Administrador       | Começar a investir  | Alcançar independência financeira e aproveitar a vida agora e no futuro |
+|Usuário do sistema  | Economizar para a educação dos filhos           | Proporcionar o melhor para os filhos e assegurando um futuro confortável               |
+|Administrador       | gerenciar dívidas relacionadas ao empreendimento | alcançar estabilidade financeira por meio do negócio |
+|Usuário do sistema  | Garantir um fluxo de renda sustentável na aposentadoria  | Desfrutar da aposentadoria sem se preocupar com finanças e viajar e aproveitar a vida |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
