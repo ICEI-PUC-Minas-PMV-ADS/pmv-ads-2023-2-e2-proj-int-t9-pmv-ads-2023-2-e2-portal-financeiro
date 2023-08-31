@@ -120,11 +120,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Registro de Usuário: Permitir que os usuários criem contas pessoais com informações básicas, como nome, e-mail e senha, para acessar recursos personalizados. | ALTA | 
-|RF-002| Navegação Intuitiva: Garantir que a navegação pelo site seja fácil e intuitiva, com menus claros e categorias bem organizadas para os diferentes tópicos de finanças.   | MÉDIA |
+|RF-002| Navegação Intuitiva: Garantir que a navegação pelo site seja fácil e intuitiva, com menus claros e categorias bem organizadas para os diferentes tópicos de finanças.   | ALTA |
 |RF-003| Conteúdo Educacional: Oferecer uma variedade de artigos, tutoriais e guias que abordem conceitos financeiros, estratégias de poupança, investimentos e planejamento futuro.   | MÉDIA |
-|RF-004| Contato e Suporte: Fornecer um canal de contato para os usuários enviarem perguntas, dúvidas ou comentários, com prazo de resposta adequado.   | MÉDIA |
+|RF-004| Contato e Suporte: Fornecer um canal de contato para os usuários enviarem perguntas, dúvidas ou comentários, com prazo de resposta adequado.   | ALTA |
 |RF-005| Estudos de Caso Inspiradores: Apresentar estudos de caso reais de pessoas que alcançaram sucesso financeiro, para ilustrar como os conceitos aprendidos podem ser aplicados na vida real.   | MÉDIA |
-|RF-006| Ferramentas de Acompanhamento Financeiro: Oferecer funcionalidades para os usuários acompanharem suas despesas, estabelecerem metas de economia e monitorarem seu progresso.   | MÉDIA |
+|RF-006| Ferramentas de Acompanhamento Financeiro: Oferecer funcionalidades para os usuários acompanharem suas despesas, estabelecerem metas de economia e monitorarem seu progresso.   | ALTA |
 |RF-007| Links para Recursos Externos: Incluir links confiáveis para outros sites, ferramentas e recursos relacionados à educação financeira para ampliar o conhecimento dos usuários.   | MÉDIA |
 |RF-008| Notificações e Newsletter: Oferecer opção para os usuários se inscreverem em notificações, atualizações por e-mail ou newsletters periódicas para se manterem informados.   | MÉDIA |
 
