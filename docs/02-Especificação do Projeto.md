@@ -160,5 +160,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Diagrama de Casos de Uso
 
 ![diagrama de casos de uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/assets/103788266/146fa3d1-d2f6-4150-b27c-cf2aba6fa4e2)
-div align="center"
-img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/assets/103788266/146fa3d1-d2f6-4150-b27c-cf2aba6fa4e2" width="0px"
+div align="center"img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/assets/103788266/146fa3d1-d2f6-4150-b27c-cf2aba6fa4e2" width="0px"
