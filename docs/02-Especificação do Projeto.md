@@ -110,6 +110,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Carla Moreira       | gerenciar dívidas relacionadas ao empreendimento | alcançar estabilidade financeira por meio do negócio |
 |Sofia de Azevedo  | Garantir um fluxo de renda sustentável na aposentadoria  | Desfrutar da aposentadoria sem se preocupar com finanças e viajar e aproveitar a vida |
 
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
