@@ -105,10 +105,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |João Alves  | Economizar para a formatura        | Iniciar uma carreira sem dívidas       |
+|João Alves  | Adquirir habilidade financeira        | Equilibrar gastos       |
 |Ana Paula de Souza       | Começar a investir  | Alcançar independência financeira e aproveitar a vida agora e no futuro |
+|Ana Paula de Souza       | Evitar despesas inesperadas  | Viajar para o exterior |
 |Marcos Alencar  | Economizar para a educação dos filhos           | Proporcionar o melhor para os filhos e assegurando um futuro confortável               |
+|Marcos Alencar  | Buscar renda extra           | Criar fundo de aposentadoria               |
 |Carla Moreira       | Gerenciar dívidas relacionadas ao empreendimento | Alcançar estabilidade financeira por meio do negócio |
+|Carla Moreira       | Equilibrar investimento pessoal e profissional |Fazer crescer seu do negócio |
 |Sofia de Azevedo  | Garantir um fluxo de renda sustentável na aposentadoria  | Desfrutar da aposentadoria sem se preocupar com finanças e viajar e aproveitar a vida |
+|Sofia de Azevedo  | Adotar tecnologias financeiras  | Criar uma estratégia de retirada de fundos |
 
 
 ## Requisitos
