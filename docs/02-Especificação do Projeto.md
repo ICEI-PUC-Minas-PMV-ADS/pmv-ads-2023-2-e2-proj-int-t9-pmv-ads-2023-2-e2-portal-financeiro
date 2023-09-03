@@ -132,6 +132,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Ferramentas de Acompanhamento Financeiro: Oferecer funcionalidades para os usuários acompanharem suas despesas, estabelecerem metas de economia e monitorarem seu progresso.   | ALTA |
 |RF-007| Links para Recursos Externos: Incluir links confiáveis para outros sites, ferramentas e recursos relacionados à educação financeira para ampliar o conhecimento dos usuários.   | MÉDIA |
 |RF-008| Notificações e Newsletter: Oferecer opção para os usuários se inscreverem em notificações, atualizações por e-mail ou newsletters periódicas para se manterem informados.   | MÉDIA |
+|RF-009|Seção de Investimentos: Oferecer informações sobre diferentes tipos de investimentos, riscos e oportunidades de crescimento financeiro. | BAIXA |
+|RF-010|Avaliação de Conhecimento: Apresentar questionários ou testes para que os usuários possam avaliar seu conhecimento em educação financeira e identificar áreas para melhorar.| BAIXA |
 
 
 ### Requisitos não Funcionais
