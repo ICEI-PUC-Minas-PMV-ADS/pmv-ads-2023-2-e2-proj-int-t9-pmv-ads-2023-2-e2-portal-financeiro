@@ -61,6 +61,6 @@ O quadro kanban do GitHub Project utilizado pela equipe está disponível atrav�
 <div align="center">
 
 Tela do kanban utilizada pela equipe 
- <img align="center" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/kanban.png">
 
-</div>
+ </div>
+ <img lign="center" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/kanban.png">
