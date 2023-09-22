@@ -62,6 +62,6 @@ O quadro kanban do GitHub Project utilizado pela equipe está disponível atrav�
 
 Tela do kanban utilizada pela equipe 
 	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/img_projectStep2/kanban.PNG)
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/img_kanban.png)
 
 </div>
