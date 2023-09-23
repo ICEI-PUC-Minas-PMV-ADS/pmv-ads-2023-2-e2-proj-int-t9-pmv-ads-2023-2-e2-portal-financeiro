@@ -17,9 +17,9 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. A tela inicial do sistema apresenta uma estrutura comum, existem 3 grandes blocos, descritos a seguir. São eles: ● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo); ● Conteúdo - apresenta o conteúdo da tela em questão; ● Barra superior - apresenta o menu principal de navegação entre as páginas.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+wireframe1.png
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
