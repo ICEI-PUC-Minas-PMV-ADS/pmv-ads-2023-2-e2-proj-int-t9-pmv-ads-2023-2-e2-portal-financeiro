@@ -19,7 +19,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. A tela inicial do sistema apresenta uma estrutura comum, existem 3 grandes blocos, descritos a seguir. São eles: ● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo); ● Conteúdo - apresenta o conteúdo da tela em questão; ● Barra superior - apresenta o menu principal de navegação entre as páginas.
 
-wireframe1.png
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe1.png
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
