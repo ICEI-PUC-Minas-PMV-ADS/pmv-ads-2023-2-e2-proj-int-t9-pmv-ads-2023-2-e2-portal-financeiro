@@ -19,13 +19,35 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. A tela inicial do sistema apresenta uma estrutura comum, existem 3 grandes blocos, descritos a seguir. São eles: ● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo); ● Conteúdo - apresenta o conteúdo da tela em questão; ● Barra superior - apresenta o menu principal de navegação entre as páginas.
 
+
+
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe1.png)
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+Tela - Home Page
+
+A tela de Home Page traz uma visão facil de acesso a todas as funcionalidades do portal. Levando em consideração ao diagrama de fluxo definido anteriormente, podemos ver a opçao de login ou cadastro do usuario para acesso personalizado as funcionalidades.
+
+Sobre nós
+
+ Contem as informações referente ao Projeto Portal financeiro.
+
+![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe2.png)
+
+Primeiros passos
+
+Esta tela possui dicas e as melhores práticas para iniciar sua jornada de sucesso rumo ao aprendizado de principios e técnicas para obter sucesso finaceiro.
+
+![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe3.png)
+
+Meu bolso
+
+Traz um conteudo personalizado e o desenvolvimento dos conteudos educacionais oferecidos pelo portal.
+
+![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe4.png)
+
+Ferramentas
+
+Listamos varias ferramentas para ajuda no desenvolvimento da educação financeira.
+
+![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe5.png)
