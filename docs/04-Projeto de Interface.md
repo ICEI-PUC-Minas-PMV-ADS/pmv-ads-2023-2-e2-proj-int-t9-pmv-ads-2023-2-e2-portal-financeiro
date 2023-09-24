@@ -20,24 +20,23 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe1.png)
  
-
 Tela - Home Page
 
 A tela de Home Page traz uma visão de acesso simples e fácil à todas as funcionalidades do portal. Levando em consideração o diagrama de fluxo definido anteriormente, podemos ver a opção de login ou cadastro do usuário para acesso personalizado às funcionalidades.
 
-Sobre nós
+## Sobre nós
 
- Contem as informações referente ao Projeto Portal financeiro.
+Contém as informações referente ao Projeto Portal financeiro.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe2.png)
 
-Primeiros passos
+## Primeiros passos
 
 Esta tela possui dicas e as melhores práticas para iniciar sua jornada de sucesso rumo ao aprendizado de principios e técnicas para obter sucesso finaceiro.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe3.png)
 
-Meu bolso
+## Meu bolso
 
 Traz um conteudo personalizado e o desenvolvimento dos conteudos educacionais oferecidos pelo portal.
 
