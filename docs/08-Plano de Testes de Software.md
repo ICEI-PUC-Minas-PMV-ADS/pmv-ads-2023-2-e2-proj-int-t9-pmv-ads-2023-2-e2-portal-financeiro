@@ -4,7 +4,7 @@
 
 Cenários de testes 
 
-Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
+Plano de Teste de Software: • A aplicação deve possuir um tópico de dicas como seguir uma trajetoria correta para obter conhecimento financeiro. • A aplicação deve possuir layouts predefinidos. • A aplicação deve ter página de fácil navegação, para facilitar correções, caso seja necessário.
 
 Por exemplo:
  
@@ -12,20 +12,19 @@ Por exemplo:
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site URL: http://localhost:5500/index.html<br> - Clicar em "Cadastre-se" <br> - Preencher os campos obrigatórios (nome, e-mail, senha, data de nascimento) <br> - <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site URL: http://localhost:5500/index.html<br> - Clicar no botão "Login" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
+|  	|  	|
+| Caso de Teste 	| CT-03 – Responsividade	|
+|Requisito Associado | RF-00Z	- A aplicação deve deve responder de modo responsivo ao ser acessada por dispositivos móveis. |
+| Objetivo do Teste 	| Verificar a responsividade da aplicação. |
+| Passos 	| - Acessar o navegador por um dispositivo móvel <br> - Informar o endereço do site URL: http://localhost:5500/index.html<br> - navegar pelos paginas do portal|
+|Critério de Êxito | - a aplicação respondeu responsivamente com  sucesso. |
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
