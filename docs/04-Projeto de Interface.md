@@ -13,16 +13,17 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ## Wireframes
 
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. A tela inicial do sistema apresenta uma estrutura comum, existem 3 grandes blocos, descritos a seguir. São eles: ● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo); ● Conteúdo - apresenta o conteúdo da tela em questão; ● Barra superior - apresenta o menu principal de navegação entre as páginas.
-
-
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. A tela inicial do sistema apresenta uma estrutura comum, existem 3 grandes blocos, descritos a seguir. São eles: 
+● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo); 
+● Conteúdo - apresenta o conteúdo da tela em questão; 
+● Barra superior - apresenta o menu principal de navegação entre as páginas.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe1.png)
  
 
 Tela - Home Page
 
-A tela de Home Page traz uma visão facil de acesso a todas as funcionalidades do portal. Levando em consideração ao diagrama de fluxo definido anteriormente, podemos ver a opçao de login ou cadastro do usuario para acesso personalizado as funcionalidades.
+A tela de Home Page traz uma visão de acesso simples e fácil à todas as funcionalidades do portal. Levando em consideração o diagrama de fluxo definido anteriormente, podemos ver a opção de login ou cadastro do usuário para acesso personalizado às funcionalidades.
 
 Sobre nós
 
