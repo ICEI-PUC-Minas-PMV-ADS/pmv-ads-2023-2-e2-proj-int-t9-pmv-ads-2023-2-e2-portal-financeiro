@@ -31,17 +31,8 @@ Para mais informações, consulte o microfundamento "Modelagem de Dados".
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
+As tecnologias que serão utilizadas serão as liguagens HTML, CSS e JavaScript e banco de dados, com o intuito de criar um portal dinâmico e de fácil acesso a todos.
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+A hospedagem será feita no GitHub Pages, com link direto do GitHub.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
