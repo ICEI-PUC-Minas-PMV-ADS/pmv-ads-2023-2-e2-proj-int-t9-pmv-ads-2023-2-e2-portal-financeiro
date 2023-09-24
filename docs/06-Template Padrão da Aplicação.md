@@ -15,4 +15,4 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 ![template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/template4.jpg)
 
 
-![template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/template5.png)
+![template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/template5.jpg)
