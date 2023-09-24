@@ -30,7 +30,9 @@ Para mais informações, consulte o microfundamento "Modelagem de Dados".
 ## Tecnologias Utilizadas
 
 As tecnologias que serão utilizadas serão as liguagens HTML, CSS e JavaScript e banco de dados, com o intuito de criar um portal dinâmico e de fácil acesso a todos.
+
 ## Hospedagem
 
-A hospedagem será feita no GitHub Pages, com link direto do GitHub.
+A hospedagem do site do projeto se encontra disponível na ferramenta Github Pages e pode se acessada das formas listadas a seguir:<br>
+ * Código fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro
 
