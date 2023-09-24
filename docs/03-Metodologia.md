@@ -14,7 +14,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-----------|---------------------|-------------------|
 |Repositório de código fonte| GitHub |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/src/README.md | 
 |Documentos do Projeto| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/tree/main/docs |
-|Projeto de Interface e Wireframes| Figma | https://www.figma.com |
+|Projeto de Interface e Wireframes| Canva | https://www.canva.com |
 |Gerenciamento de Projeto| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/IntApplicationProject-Template |
 |Comunicação entre Stakeholders | WhatsApp e Teams |  https://teams.microsoft.com - https://www.whatsapp.com/?lang=pt_BR  |
 |Editor de código | Visual Studio Code| https://vscode.dev/ |
