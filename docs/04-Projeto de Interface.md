@@ -14,6 +14,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 ## Wireframes
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. A tela inicial do sistema apresenta uma estrutura comum, existem 3 grandes blocos, descritos a seguir. São eles: 
+
 ● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo); 
 ● Conteúdo - apresenta o conteúdo da tela em questão; 
 ● Barra superior - apresenta o menu principal de navegação entre as páginas.
