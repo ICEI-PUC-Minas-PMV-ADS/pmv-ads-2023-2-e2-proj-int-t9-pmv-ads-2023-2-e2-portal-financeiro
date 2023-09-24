@@ -20,30 +20,30 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe1.png)
  
-Tela - Home Page
+#### Tela - Home Page
 
 A tela de Home Page traz uma visão de acesso simples e fácil à todas as funcionalidades do portal. Levando em consideração o diagrama de fluxo definido anteriormente, podemos ver a opção de login ou cadastro do usuário para acesso personalizado às funcionalidades.
 
-## Sobre nós
+#### Tela Sobre nós
 
 Contém as informações referente ao Projeto Portal financeiro.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe2.png)
 
-## Primeiros passos
+#### Tela Primeiros passos
 
-Esta tela possui dicas e as melhores práticas para iniciar sua jornada de sucesso rumo ao aprendizado de principios e técnicas para obter sucesso finaceiro.
+Possui dicas para melhores práticas de iniciar sua jornada rumo ao aprendizado de princípios e técnicas para obter sucesso financeiro.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe3.png)
 
-## Meu bolso
+#### Meu bolso
 
-Traz um conteudo personalizado e o desenvolvimento dos conteudos educacionais oferecidos pelo portal.
+Traz um conteúdo personalizado e o desenvolvimento dos conteúdos educacionais oferecidos pelo portal.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe4.png)
 
-Ferramentas
+#### Ferramentas
 
-Listamos varias ferramentas para ajuda no desenvolvimento da educação financeira.
+Lista várias ferramentas para ajudar no desenvolvimento da educação financeira.
 
 ![wireframe1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/wireframe5.png)
