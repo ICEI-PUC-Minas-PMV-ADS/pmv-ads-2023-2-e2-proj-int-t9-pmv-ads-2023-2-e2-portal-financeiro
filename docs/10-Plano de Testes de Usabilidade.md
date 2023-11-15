@@ -4,20 +4,38 @@ Os testes de usabilidade permitem avaliar a qualidade da interface com o usuári
 
 ## Objetivos de teste
 
-1 - Verificar funcionalidade de registro de usuário e gerenciamento de perfil.
-2- Efetuar login.
-3- Registro e login via mobile(Responsividade).
+1 - Verificar funcionalidade de registro de usuário e gerenciamento de perfil.<br/>
+2 - Efetuar login.<br/>
+3 - Registro e login via mobile(Responsividade).
 
 ## Participantes e Procedimentos
 
 - Todos os participantes foram voluntários para testes remotos. Usando o método não moderado por ser online, nos testes serão coletdos, quantidades de cliques, números de erro, a qualidade da navegação, a eficiência do processo de registro e login.
    ### Passo a passo
-  -Objetivo 1 = Verificar funcionalidade de registro de usuário e gerenciamento de perfil.
-      - Os usuários dos testes terão a solução já aberta.
-      - 1º Navegar na página principal.
-      - 2º Encontrar botão de registro.
-      - 3º Realizar registro.
+  -Objetivo 1 = Verificar funcionalidade de registro de usuário e gerenciamento de perfil.<br/>
+      - Os usuários dos testes terão a solução já aberta.<br/>
+      - 1º Navegar na página principal.<br/>
+      - 2º Encontrar botão de registro.<br/>
+      - 3º Realizar registro.<br/>
       - 4º Gerenciar perfil.
+
+  -Objetivo 2 = Efetuar Login<br/>
+      - Os usuários dos testes terão a solução já aberta.<br/>
+      - 1º Navegar na página principal.<br/>
+      - 2º Encontrar botão de login.<br/>
+      - 3º Realizar login.<br/>
+      - 4º Verificar se Gerenciar perfil funciona novamente.
+
+
+  -Objetivo 3 = Registro e login via mobile.<br/>
+      - 1º Abrir solução no celular ou tablet.<br/>
+      - 2º Navegar na pagina principal<br/>
+      - 3º Encontrar o botão de registro.<br/>
+      - 4º Realizar registro.<br/>
+      - 5º Realizar login.<br/>
+      - 6º Gerenciar perfil.
+  
+
 
  a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
 
