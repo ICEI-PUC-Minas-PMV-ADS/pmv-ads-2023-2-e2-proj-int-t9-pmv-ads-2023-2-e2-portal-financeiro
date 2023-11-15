@@ -34,9 +34,20 @@ Os testes de usabilidade permitem avaliar a qualidade da interface com o usuári
       - 4º Realizar registro.<br/>
       - 5º Realizar login.<br/>
       - 6º Gerenciar perfil.
-  
+
+  ### Recursos
+
+  - Os únicos recursos necessários serão internet, computador , celular ou tablet.
+## Voluntários
+
+1 -Nome = Letícia Leandro Porto.<br/>
+Idade = 19 anos.<br/>
+Educação = Cursando ensino superior.<br/>
+Experiência com internet = 1 a 2 anos.<br/>
+Sistema operacional = Windows.<br/>
+Browser = Edge.
 
 
- a ordem de execução das tarefas e das etapas da sessão de teste, recursos demandados, métricas coletadas etc.
+
 
 Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
