@@ -48,6 +48,24 @@ Sistema operacional = Windows.<br/>
 Browser = Edge.
 
 
+2 -Nome = Fernanda Cristina Barbosa.<br/>
+Idade = 37 anos.<br/>
+Educação = Ensino superior completo.<br/>
+Experiência com internet = 2 anos ou mais.<br/>
+Sistema operacional =Apple.<br/>
+Browser = Safari.
+
+
+3 -Nome = Glayson Fagner Silva.<br/>
+Idade = 39 anos.<br/>
+Educação = Ensino superior completo.<br/>
+Experiência com internet = 2 anos ou mais.<br/>
+Sistema operacional = Windows.<br/>
+Browser = Chrome.
+
+
+
+
 
 
 Para cada voluntário do teste, é fundamental coletar e apresentar todos os dados/métricas previamente definidos, mas não se esqueça: atendendo à LGPD (Lei Geral de Proteção de Dados), nenhum dado sensível, que permita identificar o voluntário, deverá ser apresentado).
