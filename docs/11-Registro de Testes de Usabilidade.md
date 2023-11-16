@@ -1,8 +1,23 @@
 # Registro de Testes de Usabilidade
 
-Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
+## Questionário de avaliação de teste de usabilidade
+-Abaixo segue uma avaliação das respostas dos usuários ao questionário de avalição
+do sistema onde as respostas são oferecidas ao usuário em uma escala 0 a 5
+| Questões | Letícia    | Fernanda | Glayson| Média |
+| :---         |     :---       | :---          | :--- |:---|
+| Satisfação em relação ao uso do sistema <br/>  |4|3|4|3,6|
+| Em relação a sua expectativa ao<br/> que o sistema propôs fazer |5|5|3|4,3|
+|Quantidade de informação mostrada na tela |5|5|4|4,6|
+|Organização da informação|3|3|4|3,3|
+|O computador manteve você informado<br/> sobre o que ele estava fazendo|4|5|3|4|
+|Tempo para aprender a usar o sistema|5|5|5|5|
+|Número de passos para executar uma tarefa|4|4|5|4,3|
+|Falhas de sistema ocorreram|5|5|5|5|
+|Responsividade |3|4|4|3,6|
+|Registro e login bem sucedido|4|5|3|4|
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
+# Análise dos resultados
+- A partir dos resultados obtidos no teste de usabilidade, foi realizada um análise para
+detectar problemas de usabilidade e propor as respectivas alterações.
 
-> **Links Úteis**:
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+...
