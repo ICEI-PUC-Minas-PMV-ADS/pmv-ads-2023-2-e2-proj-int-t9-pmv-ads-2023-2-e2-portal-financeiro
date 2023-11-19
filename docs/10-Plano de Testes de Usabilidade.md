@@ -21,7 +21,7 @@ Os testes de usabilidade permitem avaliar a qualidade da interface com o usuári
       - 3º Realizar registro.<br/>
       - 4º Gerenciar perfil.
 
-  - Objetivo 2: Efetuar Login<br/>
+  - Objetivo 2: Efetuar Login.<br/>
       - Os usuários dos testes terão a solução já aberta.<br/>
       - 1º Navegar na página principal.<br/>
       - 2º Encontrar botão de login.<br/>
