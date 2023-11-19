@@ -2,9 +2,12 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Cenários de testes 
+Cenários de testes: 
 
-Plano de Teste de Software: • A aplicação deve possuir um tópico de dicas como seguir uma trajetoria correta para obter conhecimento financeiro. • A aplicação deve possuir layouts predefinidos. • A aplicação deve ter página de fácil navegação, para facilitar correções, caso seja necessário.
+Plano de Teste de Software:
+• A aplicação deve possuir um tópico de dicas como seguir uma trajetória correta para obter conhecimento financeiro;
+• A aplicação deve possuir layouts pré-definidos;
+• A aplicação deve ter página de fácil navegação para facilitar edição de dados inseridos, caso seja necessário.
 
 Por exemplo:
  
