@@ -6,7 +6,7 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-![Diagrama de Classes.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/DiagramadeClasses.png) 
+![DiagramadeClasses.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/blob/main/docs/img/DiagramadeClasses.png) 
 
 ## Modelo ER (Projeto Conceitual)
 
