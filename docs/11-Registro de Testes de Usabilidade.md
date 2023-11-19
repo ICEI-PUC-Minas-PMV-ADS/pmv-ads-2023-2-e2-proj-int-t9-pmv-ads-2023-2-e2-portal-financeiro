@@ -1,8 +1,10 @@
 # Registro de Testes de Usabilidade
 
-## Questionário de avaliação de teste de usabilidade
--Abaixo segue uma avaliação das respostas dos usuários ao questionário de avalição
-do sistema onde as respostas são oferecidas ao usuário em uma escala 0 a 5
+## Questionário de Avaliação de Teste de Usabilidade
+
+- Abaixo segue uma avaliação das respostas dos usuários ao questionário de avaliação
+do sistema onde as respostas são oferecidas ao usuário numa escala de 0 a 5:
+
 | Questões | Letícia    | Fernanda | Glayson| Média |
 | :---         |     :---       | :---          | :--- |:---|
 | Satisfação em relação ao uso do sistema <br/>  |4|3|4|3,6|
@@ -17,7 +19,6 @@ do sistema onde as respostas são oferecidas ao usuário em uma escala 0 a 5
 |Registro e login bem sucedido|4|5|3|4|
 
 # Análise dos resultados
-- A partir dos resultados obtidos no teste de usabilidade, foi realizada um análise para
-detectar problemas de usabilidade e propor as respectivas alterações.
 
-...
+À partir dos resultados obtidos no teste de usabilidade, foi realizada um análise para
+detectar problemas de usabilidade e propor as respectivas alterações.
