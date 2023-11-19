@@ -1,0 +1,58 @@
+﻿@model Portal_financeiro2023.Models.Divida
+
+@{
+    ViewData["Title"] = "Adicionar";
+}
+
+<h1>Adicionar dívida</h1>
+
+<h4>Divida</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Conta" class="control-label"></label>
+                <input asp-for="Conta" class="form-control" />
+                <span asp-validation-for="Conta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Valor" class="control-label"></label>
+                <input asp-for="Valor" class="form-control" />
+                <span asp-validation-for="Valor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pagamento" class="control-label"></label>
+                <input asp-for="Pagamento" class="form-control" />
+                <span asp-validation-for="Pagamento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmNegociação" class="control-label"></label>
+                <select asp-for="EmNegociação" class="form-control" asp-items="Html.GetEnumSelectList<Divida.Negociação>()"></select>
+                <span asp-validation-for="EmNegociação" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DespesaId" class="control-label"></label>
+                <select asp-for="DespesaId" class ="form-control" asp-items="ViewBag.DespesaId"></select>
+            </div>
+            <div class="form-group">
+                <a asp-action="Index" class="btn btn-info">Voltar</a> |
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

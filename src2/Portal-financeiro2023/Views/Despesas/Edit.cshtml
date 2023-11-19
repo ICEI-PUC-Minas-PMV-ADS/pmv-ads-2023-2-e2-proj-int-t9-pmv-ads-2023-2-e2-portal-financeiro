@@ -1,0 +1,42 @@
+﻿@model Portal_financeiro2023.Models.Despesa
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar dados das despesas</h1>
+
+<h4>Despesa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Conta" class="control-label"></label>
+                <input asp-for="Conta" class="form-control" />
+                <span asp-validation-for="Conta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Instituição" class="control-label"></label>
+                <input asp-for="Instituição" class="form-control" />
+                <span asp-validation-for="Instituição" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="descrição" class="control-label"></label>
+                <input asp-for="descrição" class="form-control" />
+                <span asp-validation-for="descrição" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a class="btn btn-info" asp-action="Index">Voltar</a> |
+                <input type="submit" value="Salvar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

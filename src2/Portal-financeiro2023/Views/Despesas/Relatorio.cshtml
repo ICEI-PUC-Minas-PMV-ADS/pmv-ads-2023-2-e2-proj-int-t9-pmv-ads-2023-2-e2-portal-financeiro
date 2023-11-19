@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Portal_financeiro2023.Models.Divida>
+
+@{
+    ViewData["Title"] = "Relatorio";
+}
+
+<h1>Relatorio da Despesa: @ViewBag.Despesa.Conta</h1>
+
+<h3>Valor Total: @ViewBag.Total</h3>
+
+<p>
+       <a class="btn btn-info" href="@Url.Action("Index", "Despesas")">Voltar</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Conta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.EmNegociação)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Conta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Valor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.EmNegociação)
+            </td>
+                
+            <td>
+            
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,55 @@
+﻿@model Portal_financeiro2023.Models.Divida
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes da dívida</h1>
+
+<div>
+    <h4>Divida</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Conta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Conta)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Valor)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Valor)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pagamento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pagamento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EmNegociação)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmNegociação)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Despesa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Despesa.Conta)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-info" asp-action="Index">Voltar</a> |
+    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@Model?.Id">Editar</a>
+   
+</div>

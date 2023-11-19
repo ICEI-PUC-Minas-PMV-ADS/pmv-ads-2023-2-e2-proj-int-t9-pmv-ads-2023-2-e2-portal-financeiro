@@ -1,0 +1,43 @@
+﻿@model Portal_financeiro2023.Models.Despesa
+
+@{
+    ViewData["Title"] = "Adicionar despesa";
+}
+
+<h1>Adicionar nova despesa</h1>
+
+<h4>Despesa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Conta" class="control-label"></label>
+                <input asp-for="Conta" class="form-control" />
+                <span asp-validation-for="Conta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Instituição" class="control-label"></label>
+                <input asp-for="Instituição" class="form-control" />
+                <span asp-validation-for="Instituição" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="descrição" class="control-label"></label>
+                <input asp-for="descrição" class="form-control" />
+                <span asp-validation-for="descrição" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a asp-action="Index" class="btn btn-info">Voltar</a> |
+                <input type="submit" value="Adicionar" class="btn btn-success"></span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
