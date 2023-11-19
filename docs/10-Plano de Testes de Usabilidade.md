@@ -1,14 +1,14 @@
-# Plano de Testes de Usabilidade
+# Plano de Testes de Usabilidade:
 
 Os testes de usabilidade permitem avaliar a qualidade da interface com o usuário da aplicação interativa.
 
-## Objetivos de teste
+## Objetivos de teste:
 
 1 - Verificar funcionalidade de registro de usuário e gerenciamento de perfil.<br/>
 2 - Efetuar login.<br/>
-3 - Registro e login via móbile (Responsividade).
+3 - Registro e login via móbile(Responsividade).
 
-## Participantes e Procedimentos
+## Participantes e Procedimentos:
 
 - Todos os participantes foram voluntários para testes remotos. Usando o método não moderado por ser online, nos testes serão coletados quantidades de cliques, números de erro, qualidade de navegação, eficiência do processo de registro e login.
 
