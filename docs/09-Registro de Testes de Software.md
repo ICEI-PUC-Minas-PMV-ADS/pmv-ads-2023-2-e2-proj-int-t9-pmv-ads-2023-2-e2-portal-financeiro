@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
-Foram realizados os testes de acordo com as tabelas mostradas no item 8, testes de funcionalidades e de controle de acesso, podendo ser resumidos na tabela abaixo:
+Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano de Testes de Software), testes de funcionalidades e de controle de acesso, podendo ser resumidos na tabela abaixo:
 
 | Código do Teste | Descrição | Status |
 |---------------------|-----------------------|-------------|
