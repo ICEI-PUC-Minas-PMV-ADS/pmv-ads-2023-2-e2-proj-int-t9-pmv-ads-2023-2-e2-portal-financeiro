@@ -13,7 +13,7 @@ Na tabela abaixo, estão especificadas as funcionalidades que serão aplicadas:
 |RF-003| Visualização do site e dicas | index.html / style.css | 
 |RF-007| Menu interativo e funcional   | app.js |
 
-#As demais funcionalidades constantes em "Especificação do Projeto - Funcionalidades", serão desenvolvidas em projeto futuro.#
+#As demais funcionalidades constantes em "Especificação do Projeto - Funcionalidades", serão desenvolvidas em projeto futuro.
 
 # Instruções de acesso
 
