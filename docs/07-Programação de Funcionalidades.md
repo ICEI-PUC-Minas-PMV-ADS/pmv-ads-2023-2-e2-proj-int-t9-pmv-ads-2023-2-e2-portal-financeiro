@@ -25,6 +25,7 @@ Instruções de acesso:
 5. Abra o Visual Studio 2022 e execute o Live Server; 
 6. Abra um navegador de Internet e informe a seguinte URL: http://localhost:44328/index.html
   
-Usuário de teste
-usuário - admin / senha - 123456).
+Usuário de teste: 
+Usuário = admin
+Senha= 123456.
 
