@@ -18,19 +18,19 @@ Por exemplo:
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site URL: http://localhost:5500/index.html<br> - Clicar em "Cadastre-se" <br> - Preencher os campos obrigatórios (nome, e-mail, senha, data de nascimento) <br> - <br> - Clicar em "Cadastrar" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site URL: [http://localhost:44328/index.html](http://localhost:44328/index.html)<br> - Clicar em "Cadastre-se" <br> - Preencher os campos obrigatórios (nome, e-mail, senha, data de nascimento) <br> - <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site URL: http://localhost:5500/index.html<br> - Clicar no botão "Login" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site URL: [http://localhost:44328/index.html](http://localhost:44328/index.html)<br> - Clicar no botão "Login" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-03 – Responsividade	|
 |Requisito Associado | RF-00Z	- A aplicação deve deve responder de modo responsivo ao ser acessada por dispositivos móveis. |
 | Objetivo do Teste 	| Verificar a responsividade da aplicação. |
-| Passos 	| - Acessar o navegador por um dispositivo móvel <br> - Informar o endereço do site URL: http://localhost:5500/index.html<br> - navegar pelos paginas do portal|
+| Passos 	| - Acessar o navegador por um dispositivo móvel <br> - Informar o endereço do site URL: [http://localhost:44328/index.html](http://localhost:44328/index.html)<br> - navegar pelos paginas do portal|
 |Critério de Êxito | - a aplicação respondeu responsivamente com  sucesso. |
 
 | **Caso de Teste** 	| **CT-04 – Cadastrar Despesa** 	|
@@ -40,11 +40,11 @@ Por exemplo:
 | Passos 	| - Realizar login na aplicação conforme CT-02 <br> - Navegar até a seção de cadastro de despesas <br> - Clicar em "Adicionar Despesa" <br> - Preencher os campos obrigatórios (conta, instituição, descriçao) <br> - Clicar em "Adicionar" |
 |Critério de Êxito | - A despesa foi cadastrada com sucesso. |
 |  	|  	|
-| Caso de Teste 	| CT-05 – Visualizar Relatório de Despesas	|
+| Caso de Teste 	| CT-05 – Visualizar Lista de Despesas	|
 |Requisito Associado | RF-006	- Ferramentas de Acompanhamento Financeiro: Oferecer funcionalidades para os usuários acompanharem suas despesas, estabelecerem metas de economia e monitorarem seu progresso. |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar o relatório de despesas na aplicação. |
-| Passos 	| - Realizar login na aplicação conforme CT-02 <br> - Navegar até a seção de relatório de despesas <br> - Selecionar a despesa cadastrada <br> - Clicar em "Visualizar" |
-|Critério de Êxito | - O relatório de despesas foi exibido corretamente, incluindo informações precisas sobre o total gasto, categorias de despesas e datas. |
+| Passos 	| - Realizar login na aplicação conforme CT-02 <br> - Navegar até a seção de lista de despesas <br |
+|Critério de Êxito | - O listagem de despesas foi exibido corretamente, incluindo informações precisas sobre o total gasto, categorias de despesas e datas. |
 |  	|  	|
 
 
