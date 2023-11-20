@@ -10,8 +10,6 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
 | CT-04 | Cadastrar Despesa | ✅ Passou | Chrome |
 | CT-05 | Visualizar Lista de Despesas | ✅ Passou | Chrome |
 
-## Testes de Funcionalidade:
-
 ### CT - 01: Cadastrar perfil
 
 #### Descrição do Teste:
@@ -24,6 +22,8 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
 #### Evidência:
 ![CT01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/assets/111186037/8880ecd3-ef33-4b7c-8eb2-24cd4776d8ba)
 
+#### Estrutura de Dados:
+ <img src="img/Usuarios.jpeg">
 
 #### Resultado:
 O cadastro foi concluído com sucesso!
