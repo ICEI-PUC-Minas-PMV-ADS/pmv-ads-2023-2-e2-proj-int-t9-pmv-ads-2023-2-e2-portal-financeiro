@@ -6,7 +6,7 @@
 
 > 2º Semestre/2023
 
-O projeto em desenvolvimento é um site focado em educação financeira, destinado a fornecer orientação prática e acessível sobre diversos aspectos das finanças pessoais. Ele abrange tópicos como orçamento eficiente, estratégias de poupança, investimentos inteligentes, gerenciamento de dívidas e preparação para a aposentadoria. O site visa capacitar indivíduos de diferentes faixas etárias e níveis de conhecimento a tomar decisões financeiras informadas e responsáveis. 
+O projeto em desenvolvimento é um site focado em educação financeira, destinado a fornecer orientação prática e acessível sobre diversos aspectos das finanças pessoais. Ele abrange tópicos como Primeiros passos, Gerenciar despesas, Controle de dívidas, gerenciamento de dívidas e preparação para a aposentadoria. O site visa capacitar indivíduos de diferentes faixas etárias e níveis de conhecimento a tomar decisões financeiras informadas e responsáveis. 
 Além disso, o site oferece ferramentas interativas, estudos de caso inspiradores para ajudar os visitantes a desenvolverem habilidades financeiras sólidas e alcançarem estabilidade econômica a longo prazo.
 
 ## Integrantes
@@ -26,7 +26,7 @@ Além disso, o site oferece ferramentas interativas, estudos de caso inspiradore
 
 * Link da aplicação repositório Github https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro
 
-* O usuário poderá explorar e navegar pelas seções principais do site, como: "Orçamento", "Poupança", "Investimentos" e "Planejamento para o Futuro". Cada seção contém informações detalhadas sobre o tópico correspondente.
+* O usuário poderá explorar e navegar pelas seções principais do site, como: "Home", "Sobre nós", "Primeiros passos", "Meu bolso" e "Ferramentas", tendo o conteúdo personalizado através do seu Login, onde cada seção contém informações detalhadas sobre o tópico correspondente.
 
 * Poderá ser lido artigos Educacionais: Artigos educativos disponíveis em cada seção. Eles oferecem insights valiosos sobre conceitos financeiros e estratégias práticas para lidar com diferentes aspectos das finanças pessoais.
 
