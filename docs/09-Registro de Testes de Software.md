@@ -16,7 +16,7 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
 
 #### Descrição do Teste:
 1. Acessar o navegador.
-2. Informar o endereço do site URL: [http://localhost:44328/index.html](http://localhost:44328/index.html).
+2. Informar o endereço do site URL: [http://localhost:44328].
 3. Clicar em "Cadastre-se".
 4. Preencher os campos obrigatórios (nome, e-mail, senha, data de nascimento).
 5. Clicar em "Cadastrar".
@@ -32,11 +32,11 @@ O cadastro foi concluído com sucesso!
 
 #### Descrição do Teste:
 1. Acessar o navegador.
-2. Informar o endereço do site URL: [http://localhost:44328/index.html](http://localhost:44328/index.html).
+2. Informar o endereço do site URL: [http://localhost:44328]).
 3. Clicar no botão "Login".
-4. Preencher o campo de e-mail.
+4. Preencher o campo nome.
 5. Preencher o campo da senha.
-6. Clicar em "Login".
+6. Clicar em "Acessar".
 
 #### Evidência:
 ![CT02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/assets/111186037/dd7caeb6-1cd2-4dc6-9c2e-23ab65f0451c)
@@ -49,7 +49,7 @@ O login foi realizado com sucesso!
 
 #### Descrição do Teste:
 1. Acessar o navegador por um dispositivo móvel.
-2. Informar o endereço do site URL: [http://localhost:44328/index.html](http://localhost:44328/index.html).
+2. Informar o endereço do site URL: [http://localhost:44328].
 3. Navegar pelas páginas do portal.
 
 #### Evidência:
