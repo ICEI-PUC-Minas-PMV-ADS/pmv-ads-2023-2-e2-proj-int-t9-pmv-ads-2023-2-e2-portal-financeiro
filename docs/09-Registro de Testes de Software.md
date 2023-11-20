@@ -7,6 +7,8 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
 | CT-01 | Cadastrar perfil | Pendente |
 | CT-02 | Efetuar login | Pendente |
 | CT-03 | Responsividade | Pendente |
+| CT-04 | Cadastrar Despesa | Pendente |
+| CT-05 | Visualizar Relatório de Despesas | Pendente |
 
 ## Testes de Funcionalidade:
 
@@ -46,6 +48,34 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
 1. Acessar o navegador por um dispositivo móvel.
 2. Informar o endereço do site URL: [http://localhost:5500/index.html](http://localhost:5500/index.html).
 3. Navegar pelas páginas do portal.
+
+#### Evidência:
+-
+
+#### Resultado:
+-
+### CT - 04: Cadastrar Despesa
+
+#### Descrição do Teste:
+1. Realizar login na aplicação conforme CT-02.
+2. Navegar até a seção de cadastro de despesas.
+3. Clicar em "Adicionar Despesa".
+4. Preencher os campos obrigatórios (conta, instituição, descrição).
+5. Clicar em "Adicionar".
+
+#### Evidência:
+-
+
+#### Resultado:
+-
+
+### CT - 05: Visualizar Relatório de Despesas
+
+#### Descrição do Teste:
+1. Realizar login na aplicação conforme CT-02.
+2. Navegar até a seção de relatório de despesas.
+3. Selecionar a despesa cadastrada.
+4. Clicar em "Visualizar".
 
 #### Evidência:
 -
