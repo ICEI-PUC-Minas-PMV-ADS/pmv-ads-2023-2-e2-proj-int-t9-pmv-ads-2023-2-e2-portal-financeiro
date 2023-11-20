@@ -3,8 +3,8 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. 
-- Registro de Usuário (RF-001 ): A tela principal possui campo para fazer loginchamada de outros sites para demonstar um modo simples a navegação, trazendo a facilidade que o site propõe.
--  O menu interativo e funcional (RF-007): O menu interativo é fixo em todas as páginas principais, facilitando a navegação entre elas.
+- Registro de Usuário (RF-001 ): A tela principal possui campo para fazer login e demonstar um modo simples de navegação, trazendo a facilidade que o site propõe.
+-  O menu interativo e funcional (RF-006): O menu interativo é fixo em todas as páginas principais, facilitando a navegação entre elas.
 
 Na tabela abaixo, estão especificadas as funcionalidades que serão aplicadas: 
 
