@@ -43,7 +43,7 @@ Por exemplo:
 | Caso de Teste 	| CT-05 – Visualizar Lista de Despesas	|
 |Requisito Associado | RF-006	- Ferramentas de Acompanhamento Financeiro: Oferecer funcionalidades para os usuários acompanharem suas despesas, estabelecerem metas de economia e monitorarem seu progresso. |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar o relatório de despesas na aplicação. |
-| Passos 	| - Realizar login na aplicação conforme CT-02 <br> - Navegar até a seção de lista de despesas <br |
+| Passos 	| - Realizar login na aplicação conforme CT-02 <br> - Navegar até a seção de lista de despesas. |
 |Critério de Êxito | - O listagem de despesas foi exibido corretamente, incluindo informações precisas sobre o total gasto, categorias de despesas e datas. |
 |  	|  	|
 
