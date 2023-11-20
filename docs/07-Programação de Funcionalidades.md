@@ -19,7 +19,7 @@ As demais funcionalidades constantes em "Especificação do Projeto - Funcionali
 
 Instruções de acesso:
 1. Acesse (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro)
-2. Abra a pasta SRC2;
+2. Abra a pasta src2;
 3. Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub; 
 4. Descompacte o arquivo em uma pasta específica; 
 5. Abra o Visual Studio 2022 e execute o Live Server; 
