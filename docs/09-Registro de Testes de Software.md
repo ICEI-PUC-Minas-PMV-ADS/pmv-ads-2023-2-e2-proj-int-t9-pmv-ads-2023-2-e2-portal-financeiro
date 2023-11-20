@@ -24,8 +24,10 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
 #### Estrutura de Dados:
  <img src="img/Usuarios.jpeg">
 
-#### Resultado:
+#### Resultado de Êxito:
 Foi possível informar os dados corretamente.
+#### Resultado de Não Êxito:
+Não foi possível informar os dados corretamente.
 
 ### CT - 02: Efetuar login
 
@@ -43,8 +45,11 @@ Foi possível informar os dados corretamente.
 #### Estrutura de Dados:
  <img src="img/Usuarios controler.jpeg">
  
-#### Resultado:
+#### Resultado de Êxito:
 Os dados inseridos são aceitos para fazer o login com sucesso.
+#### Resultado de Não Êxito:
+Os dados inseridos não são aceitos para realizar login.
+
 
 ### CT - 03: Cadastrar Despesa
 
@@ -61,8 +66,11 @@ Os dados inseridos são aceitos para fazer o login com sucesso.
 #### Estrutura de Dados:
  <img src="img/Despesas.jpeg">
 
-#### Resultado:
+
+#### Resultado de Êxito:
 A tabela aceita e demonstra corretamente os valores fornecidos nos campos;
+#### Resultado de Não Êxito:
+Não foi possível aceitar os valores fornecidos na tabela.
 
 ### CT - 04: Visualizar Lista de Despesas
 
@@ -76,6 +84,10 @@ A tabela aceita e demonstra corretamente os valores fornecidos nos campos;
 #### Estrutura de Dados:
  <img src="img/Despesa controler.jpeg">
  
-#### Resultado:
+#### Resultado de Êxito:
 A tabela cumpre o papel proposto de dar resultado das despesas;
-A tabela mostra a mensagem correta de acordo com a porcentagem da despesas pré definido;
+A tabela mostra a mensagem correta de acordo com a porcentagem das despesas pré-definidas;
+#### Resultado de Não Êxito:
+A tabela não cumpre o papel proposto de dar resultado das despesas;
+A tabela mostra uma mensagem de erro ao calcular a porcentagem das despesas pré-definidas;
+
