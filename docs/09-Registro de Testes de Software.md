@@ -25,7 +25,7 @@ Foram realizados os testes de acordo com as tabelas mostradas no ítem 08 (Plano
  <img src="img/Usuarios.jpeg">
 
 #### Resultado:
-O cadastro foi concluído com sucesso!
+Foi possível informar os dados corretamente.
 
 ### CT - 02: Efetuar login
 
@@ -44,7 +44,7 @@ O cadastro foi concluído com sucesso!
  <img src="img/Usuarios controler.jpeg">
  
 #### Resultado:
-O login foi realizado com sucesso!
+Os dados inseridos são aceitos para fazer o login com sucesso.
 
 ### CT - 03: Cadastrar Despesa
 
@@ -62,7 +62,7 @@ O login foi realizado com sucesso!
  <img src="img/Despesas.jpeg">
 
 #### Resultado:
-A Despesa foi cadastrada com sucesso!
+A tabela aceita e demonstra corretamente os valores fornecidos nos campos;
 
 ### CT - 04: Visualizar Lista de Despesas
 
@@ -77,4 +77,5 @@ A Despesa foi cadastrada com sucesso!
  <img src="img/Despesa controler.jpeg">
  
 #### Resultado:
-As despesas cadastradas são listadas com sucesso!
+A tabela cumpre o papel proposto de dar resultado das despesas;
+A tabela mostra a mensagem correta de acordo com a porcentagem da despesas pré definido;
