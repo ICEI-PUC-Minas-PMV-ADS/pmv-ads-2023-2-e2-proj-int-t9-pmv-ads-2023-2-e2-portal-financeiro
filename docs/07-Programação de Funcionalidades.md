@@ -23,7 +23,7 @@ Instruções de acesso:
 3. Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub; 
 4. Descompacte o arquivo em uma pasta específica; 
 5. Abra o Visual Studio 2022 e execute o Live Server; 
-6. Abra um navegador de Internet e informe a seguinte URL: [http://localhost:44328/index.html]
+6. Abra um navegador de Internet e informe a seguinte URL: [https://localhost:44328]
   
 Usuário de teste
 usuário - admin / senha - 123456).
