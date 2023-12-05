@@ -1,4 +1,4 @@
-namespace PORTAL.Models
+namespace PORTAL2023.Models
 {
     public class ErrorViewModel
     {

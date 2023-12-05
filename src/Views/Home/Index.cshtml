@@ -1,8 +1,30 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Portal Financeiro";
 }
 
-<div class="text-center">
-    <h1 class="display-4">PORTAL FINANCEIRO</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+<main class="apresentacao">
+    <section class="apresentacao__conteudo">
+        <h1 class="apresentacao__conteudo__titulo">
+            Portal Financeiro
+        </h1>
+        <p class="apresentacao__conteudo__texto">
+            Aprenda de uma forma simples como gerenciar seu bolso, através de dicas
+            e ferramentas que te levarão ao sucesso financeiro.
+        </p>
+        <div class="apresentacao__links">
+
+            <a class="apresentacao__links__link" href="@Url.Action("Index", "Usuarios")">Cadastre-se</a>
+
+
+            </a>
+            <a class="apresentacao__links__link" href="@Url.Action("Login", "Usuarios")">Login</a>
+
+
+            </a>
+
+        </div>
+
+    </section>
+    <img src="image/img1.jpg" alt="Foto inicio">
+</main>

@@ -1,0 +1,59 @@
+﻿@model PORTAL2023.Models.Divida
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Editar uma dívida</h1>
+
+<h4>Divida</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Conta" class="control-label"></label>
+                <input asp-for="Conta" class="form-control" />
+                <span asp-validation-for="Conta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Valor" class="control-label"></label>
+                <input value="@Model.Valor " id="Valor" name="Valor" required class="form-control" />
+                <span asp-validation-for="Valor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pagamento" class="control-label"></label>
+                <input asp-for="Pagamento" class="form-control" />
+                <span asp-validation-for="Pagamento" class="text-danger"></span>
+            </div>
+            <div
+                <label asp-for="EmNegociação" class="control-label"></label>
+                <select asp-for="EmNegociação" class="form-control" asp-items="Html.GetEnumSelectList<Divida.Negocia>()"></select>
+                <span asp-validation-for="EmNegociação" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DespesaId" class="control-label"></label>
+                <select asp-for="DespesaId" class="form-control" asp-items="ViewBag.DespesaId"></select>
+                <span asp-validation-for="DespesaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a class="btn btn-outline-info" asp-action="Index">Voltar</a> |
+                <input type="submit" value="Salvar" class="btn btn-outline-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

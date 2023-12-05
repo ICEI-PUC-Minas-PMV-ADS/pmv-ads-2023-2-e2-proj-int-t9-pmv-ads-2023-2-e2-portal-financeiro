@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using PORTAL.Models;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using PORTAL2023.Models;
 
-namespace PORTAL.Controllers
+namespace PORTAL2023.Controllers
 {
     public class HomeController : Controller
     {
@@ -16,6 +16,30 @@ namespace PORTAL.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+        public IActionResult Sobre()
+        {
+            return View();
+        }
+        public IActionResult Passos()
+        {
+            return View();
+        }
+        public IActionResult Ferramentas()
+        {
+            return View();
+        }
+        public IActionResult Primeirospassos()
+        {
+            return View();
+        }
+        public IActionResult Meubolso()
+        {
+            return View();
+        }
+        public ActionResult OpenExternalLink(int idLink)
+        {
+            return Redirect("https://rendafixa.github.io");
         }
 
         public IActionResult Privacy()

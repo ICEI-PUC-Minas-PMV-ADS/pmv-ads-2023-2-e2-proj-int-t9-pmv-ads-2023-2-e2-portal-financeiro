@@ -1,0 +1,49 @@
+﻿@model IEnumerable<PORTAL2023.Models.Despesa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de despesas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-success">Adicionar despesa</a>
+    <a class="btn btn-outline-danger" href="@Url.Action("Index", "Dividas")">Gerenciar dívidas</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Conta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instituição)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descrição)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Relatorio" asp-route-id="@item.Id">@item.Conta</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instituição)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descrição)
+                </td>
+                <td>
+                    <a class="btn btn-outline-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a class="btn btn-outline-primary" asp-action="Details" asp-route-id="@item.Id">Visualizar</a> |
+                    <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
